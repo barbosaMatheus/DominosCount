@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_2aa22b3ecb41e6c18ea2a2500db31486191337a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_cb7f580faa7f202072457bd83cf15c69a66e5faf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0e1213f4a1e77f73b4c9ea4c4a07d6ac6ffd7d7">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fccbcffd77fc391b8cf64eba9add01ee12116aac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_af5c38d859ee27f7968633f53a4f947a7578d241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7d0c63f87fe0decff0b6ee7532a13a7c978631c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_c6c6e6d638466a23b43113432d51b8469b4e648a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1dc349e6a36bb7f115b5c08ba9d46cf2aca07a81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_209d027328cf28e5f8de3ed254ab159fdfc529c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_aca605532ceb4521d5a5db4cee1895f07e92f41b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d64acc305b1e8129eca0535c1619c923febc9ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_4d0c672f7329139979f5bf36e0670a2c38774366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_a329da6309bccd6381944e3edd57fd69a7226f60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f975340b72808d1bf85b63230888cfca2bf06f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef32862245bdf9a2382d3f89bc8192358b49caca">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b150c48dd6c0c0024b960a81fcccd4da69a9c1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_e8df8b8b571384154fdb54f0fa3a468ec0551d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c2227965e4a2d91f31b1c0ba1d00e63257aed657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/matheus/AndroidStudioProjects/W08_Barbosa_Matheus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_97504627e23357b315ec4288b135dff6241abc60/classes.dex" />
+    </item>
+
+</items>
